@@ -1,0 +1,14 @@
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\bin\Debug\netcoreapp3.1\MethodExe.exe
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\bin\Debug\netcoreapp3.1\MethodExe.deps.json
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\bin\Debug\netcoreapp3.1\MethodExe.runtimeconfig.json
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\bin\Debug\netcoreapp3.1\MethodExe.runtimeconfig.dev.json
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\bin\Debug\netcoreapp3.1\MethodExe.dll
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\bin\Debug\netcoreapp3.1\MethodExe.pdb
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\obj\Debug\netcoreapp3.1\MethodExe.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\obj\Debug\netcoreapp3.1\MethodExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\obj\Debug\netcoreapp3.1\MethodExe.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\obj\Debug\netcoreapp3.1\MethodExe.AssemblyInfo.cs
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\obj\Debug\netcoreapp3.1\MethodExe.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\obj\Debug\netcoreapp3.1\MethodExe.dll
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\obj\Debug\netcoreapp3.1\MethodExe.pdb
+C:\Users\charl\Desktop\Repos\MethodExe\MethodExe\obj\Debug\netcoreapp3.1\MethodExe.genruntimeconfig.cache
